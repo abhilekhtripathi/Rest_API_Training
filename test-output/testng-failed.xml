@@ -5,7 +5,7 @@
     <classes>
       <class name="day1.HTTPRequests">
         <methods>
-          <include name="getUsers"/>
+          <include name="updateUser"/>
         </methods>
       </class> <!-- day1.HTTPRequests -->
     </classes>
